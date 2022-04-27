@@ -1,0 +1,1 @@
+import{_ as e,y as t,x as a,W as o}from"./plugin-vue_export-helper.8685c10c.js";const m='{"title":"What is Swagger-PHP?","description":"","frontmatter":{},"headers":[],"relativePath":"guide/index.md","lastUpdated":1651023257388}',n={},i=o("",6),s=[i];function r(c,d,p,h,l,u){return a(),t("div",null,s)}var _=e(n,[["render",r]]);export{m as __pageData,_ as default};
